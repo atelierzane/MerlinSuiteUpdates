@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+  <channel>
+    <title>MerlinAdministrator Updates</title>
+    <link>https://github.com/atelierzane/MerlinSuiteUpdates</link>
+    <description>Updates for MerlinAdministrator</description>
+    <language>en</language>
+    <item>
+      <title>Version 1.0.0</title>
+      <pubDate>Tue, 28 May 2024 18:00:00 GMT</pubDate>
+      <enclosure 
+        url="https://github.com/atelierzane/MerlinSuiteUpdates/releases/download/v1.0.0/MerlinAdministrator-1.0.0.exe"
+        sparkle:version="1.0.0"
+        length="12345678"
+        type="application/octet-stream" />
+      <sparkle:releaseNotesLink>https://github.com/atelierzane/MerlinSuiteUpdates/blob/main/release_notes/1.0.0.html</sparkle:releaseNotesLink>
+    </item>
+  </channel>
+</rss>
